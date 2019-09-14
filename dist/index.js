@@ -1,1 +1,1 @@
-console.log('JS reporting, sir');
+console.log("JS reporting, sir");
